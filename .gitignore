@@ -1,0 +1,11 @@
+# Raw dataset (download from Kaggle instead)
+*.csv
+data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Power BI temp
+*.pbix.bak
